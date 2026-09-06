@@ -9,7 +9,8 @@ Experienced in hardware security evaluation, wireless protocol auditing, and fir
 - **Firmware Analysis:** Binary Carving (Binwalk), File System Unpacking (SquashFS), Linux Log Auditing.
 
 ## 🚀 Featured Deep-Dive Research & Security Papers
-- 📝 [Deep Dive: Firmware Extraction and Static Analysis of an Industrial OpenWrt Gateway ROM](./firmware-extraction-openwrt.md)
-- 📊 [Vulnerability Analysis: Load Assessment and Traffic Dissection of Modbus TCP & MQTT Gateways](./industrial-protocol-stress-testing.md)
+- 📝 [Deep Dive: Firmware Extraction and Static Analysis of a Reference OpenWrt Gateway Image](./reference-gateway-analysis.md)
+- 📊 [Vulnerability Analysis: Load Assessment and Traffic Dissection of Reference Industrial Protocols](./industrial-protocol-analysis.md)
+
 
 📫 Connect with me via [LinkedIn](https://linkedin.com) or email at sohamarik1707@gmail.com
