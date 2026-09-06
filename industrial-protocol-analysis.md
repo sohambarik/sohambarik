@@ -32,7 +32,7 @@ By using the **"Follow TCP Stream"** option inside the analyzer suite, fragmente
 
 ## 5. Defensive Remediations
 1. **Enforce MQTTS:** Transition all telemetry message streams to run over TLS/SSL frameworks to completely neutralize cleartext visibility.
-2. **Network固定 Isolation (Segmentation):** Place legacy Modbus TCP links within isolated VLAN segments backed by strict firewall layouts to mitigate lateral traversal risks.
+2. **Network Isolation (Segmentation):** Place legacy Modbus TCP links within isolated VLAN segments backed by strict firewall layouts to mitigate lateral traversal risks.
 
 ## 6. Conclusion
 Evaluating industrial gateways under stress helps identify critical performance boundaries and hidden data leaks before deployment. Securing the modern factory floor requires shifting legacy cleartext communications to encrypted, authenticated alternatives to prevent targeted physical infrastructure disruption.
